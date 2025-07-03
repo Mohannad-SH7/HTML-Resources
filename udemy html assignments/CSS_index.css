@@ -1,0 +1,24 @@
+
+.Udemy{
+   text-align:center;
+    width:60%;
+    margin:auto;
+}
+
+h2{
+    color:blue;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    border:solid;
+    width:100%;
+    margin:auto;
+    
+}
+button{
+    width:100%;
+    background-color:aqua;
+    border-radius:10%;
+}
+
