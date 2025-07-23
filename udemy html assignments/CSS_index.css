@@ -4,6 +4,14 @@
     width:60%;
     margin:auto;
 }
+header{
+    display:flex;
+    justify-content:space-around;
+    text-align:center;
+}
+img{
+    margin-top:8px;
+}
 
 h2{
     color:blue;
